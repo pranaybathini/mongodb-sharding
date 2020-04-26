@@ -105,6 +105,9 @@ Here people is my database and persons is my collection. You have to enable shar
 `mongos> sh.shardCollection("people.persons",{"personId":"hashed"})`
 
 
+The above set up is one config router as a replicaset, one mongos query router and two shards(with one node replicaset). You can increase the nodes. Just assign different ports.
+
+
 
 
 
