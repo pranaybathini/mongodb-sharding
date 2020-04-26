@@ -1,6 +1,11 @@
+![mongoDB sharding](https://lh3.googleusercontent.com/iKHbqfOA22cBvWvdnGoi165ZxDy6lqWHDIrmDGORZU0NvNX_CgnexW8OgKmDVd5sQongQwCwsqsnu3SJCCPySlozJFYnJRE=s600)
+
+-------------------------------------------------------------------------------------------------------------------
+
+
 For setting up the sharded cluster and configuring it through docker, follow the below link. 
 
-Link : [MongoDB sharded cluster configuration](https://medium.com/@pranaygoud36/mongodb-sharding-9c5357a95ec1)
+Link : [MongoDB sharded cluster configuration](https://medium.com/@pranaygoud36/mongodb-sharding-9c5357a95ec1) :sparkles:
 
 To set up locally without docker, follow the below steps.
 
