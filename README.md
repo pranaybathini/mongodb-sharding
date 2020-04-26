@@ -102,7 +102,7 @@ Here people is my database and persons is my collection. You have to enable shar
 
 `mongos> sh.enableSharding("people")`
 
-`mongos> sh.shardCollection("people.persons",{"personId":"hashed"})
+`mongos> sh.shardCollection("people.persons",{"personId":"hashed"})`
 
 
 
