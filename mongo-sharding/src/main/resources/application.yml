@@ -1,0 +1,9 @@
+mongodb:
+  uri: mongodb://localhost:27017
+  uriSlave: mongodb://localhost:27017
+  database: testDb
+  shardCollections:
+    - collection: collection1
+      shardField: field1
+    - collection: collection2
+      shardField: field2
