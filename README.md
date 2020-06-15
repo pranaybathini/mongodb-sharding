@@ -114,9 +114,6 @@ The above set up is one config router as a replicaset, one mongos query router a
 
 
 
-![happy sharding](https://fontmeme.com/temporary/70897ad4e9b1c7e726e2f7d410ac3b03.png)
-
-
 
 
 
